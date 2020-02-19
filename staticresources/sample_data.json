@@ -1,0 +1,33 @@
+{
+  "tag": "some_tag_name",
+  "data": [
+    {
+      "timestamp": 1,
+      "value": 4
+    },
+    {
+      "timestamp": 2,
+      "value": 3
+    },
+    {
+      "timestamp": 3,
+      "value": 5
+    },
+    {
+      "timestamp": 4,
+      "value": 9
+    },
+    {
+      "timestamp": 5,
+      "value": 8
+    },
+    {
+      "timestamp": 6,
+      "value": 6
+    },
+    {
+      "timestamp": 7,
+      "value": 5
+    }
+  ]
+}
